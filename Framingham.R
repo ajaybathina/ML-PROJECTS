@@ -1,6 +1,5 @@
-# Unit 3, The Framingham Heart Study
+ The Framingham Heart Study
 
-# Video 3
 
 # Read in the dataset
 framingham = read.csv("framingham.csv")
